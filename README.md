@@ -21,6 +21,10 @@ python3 -m http.server 8000
 # then open http://localhost:8000 in your browser
 ```
 
+## Deployment
+This website has been deployed and published in github-pages. 
+To access the website you can simply click [here](https://chinmayanands.github.io/QRCodeGenerator/)
+
 ## Files
 - `index.html` — main UI
 - `script.js` — QR generation and download logic
