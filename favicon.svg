@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#0b84ff"/>
+  <!-- light squares (finder-like) -->
+  <g fill="#ffffff">
+    <rect x="8" y="8" width="16" height="16" rx="2"/>
+    <rect x="40" y="8" width="16" height="16" rx="2"/>
+    <rect x="8" y="40" width="16" height="16" rx="2"/>
+  </g>
+  <!-- small dark modules to suggest a QR pattern -->
+  <g fill="#0b0b0b">
+    <rect x="26" y="22" width="6" height="6"/>
+    <rect x="34" y="22" width="6" height="6"/>
+    <rect x="26" y="30" width="6" height="6"/>
+    <rect x="34" y="30" width="6" height="6"/>
+    <rect x="18" y="18" width="4" height="4"/>
+    <rect x="44" y="18" width="4" height="4"/>
+    <rect x="18" y="44" width="4" height="4"/>
+  </g>
+</svg>
